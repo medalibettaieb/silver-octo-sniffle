@@ -46,4 +46,4 @@ node {
             dockerImage.push 'latest'
         }
     }
-}
+
